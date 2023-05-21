@@ -10,6 +10,5 @@
    5. Lombok Dev tools
 
 3. Configure Datasource (Application Properties)
-4. Create your models (Staff, Roles, Staff_Roles)
-   * Staff_Roles => Mainly for many-to-many db implementation
+4. Create your models (Staff, Roles)
 5. 
